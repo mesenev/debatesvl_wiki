@@ -86,6 +86,7 @@ USE_L10N = True
 USE_TZ = True
 SITE_ID = 1
 STATIC_URL = '/static/'
+STATIC_ROOT = 'static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = 'media/'
 
